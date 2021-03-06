@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608549468 source:e:\bas student\bas student\bas\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+
